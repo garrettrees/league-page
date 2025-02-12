@@ -24,7 +24,7 @@ export const managers = [
       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "garrettrees",
       "location": "Ogden Valley", // (optional)
-      "bio": "Super Bowl champion 2008, 2013, 2015...",
+      "bio": "Super Bowl champion: 2008, 2013 and 2015",
       "photo": "/managers/frozenjack.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2008, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "lar", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
